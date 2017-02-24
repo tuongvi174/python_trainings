@@ -83,7 +83,7 @@ Ngoài mã nguồn, Github hỗ trợ các định dạng và các tính năng s
 
 <img src="http://i.imgur.com/ZHdngn0.png">
 
-####3. Markdown là gì? Dùng để làm gì?<a name ="#3"></a>
+####3. Markdown là gì? Dùng để làm gì?<a name ="3"></a>
 
 **Markdown là gì?**
 
@@ -116,7 +116,7 @@ Markdown giải quyết vấn đề trên bằng việc đưa ra cú pháp để
 
 Rõ ràng bạn thấy được cách viết thứ 2 ngắn gọn và dễ hiểu hơn rất nhiều so với cách viết đầu tiên dùng HTML.
 
-####4. Các cú pháp thường gặp<a name="#4"></a>
+####4. Các cú pháp thường gặp<a name="4"></a>
 
 **4.1. Thẻ tiêu đề**
 
@@ -286,7 +286,7 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
 
 <img src="http://i.imgur.com/p90UWhI.png">
 
-####5. Cài đặt Sublime Text và tìm kiếm, cài đặt các công cụ hỗ trợ markdown (export HTML, markdown preview, ...)<a name="#5"></a>
+####5. Cài đặt Sublime Text và tìm kiếm, cài đặt các công cụ hỗ trợ markdown (export HTML, markdown preview, ...)<a name="5"></a>
 
 **Cài đặt Sublime Text**
 
@@ -341,7 +341,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 <li>Nhấn tổ hợp phím Alt+M (mặc định) hoặc tổ hợp phím mà bạn đã cài đặt để xem trước trên trình duyệt.</li>
 
-####6. Các công cụ viết Markdown khác:<a name="#6"></a>
+####6. Các công cụ viết Markdown khác:<a name="6"></a>
 
 **Stackedit**
 
