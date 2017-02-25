@@ -6,7 +6,6 @@
  + [http://nukeviet.edu.vn/news/Chia-se-kien-thuc-web/Git-la-gi-Tai-sao-su-dung-Git-16.html](http://nukeviet.edu.vn/news/Chia-se-kien-thuc-web/Git-la-gi-Tai-sao-su-dung-Git-16.html)
  + [https://thachpham.com/](https://thachpham.com/)
  + [http://rogerdudler.github.io/git-guide/index.vi.html](http://rogerdudler.github.io/git-guide/index.vi.html)
- + 
  + [https://git-scm.com/book/vi/v1/B%E1%BA%AFt-%C4%90%E1%BA%A7u-C%E1%BA%A5u-H%C3%ACnh-Git-L%E1%BA%A7n-%C4%90%E1%BA%A7u](https://git-scm.com/book/vi/v1/B%E1%BA%AFt-%C4%90%E1%BA%A7u-C%E1%BA%A5u-H%C3%ACnh-Git-L%E1%BA%A7n-%C4%90%E1%BA%A7u)
  >
  >Ngày cập nhật: 27/02/2017
@@ -119,7 +118,32 @@ Nhấn Enter để chạy chuong trình.
 
 Tiếp theo, dùng dòng lệnh sau để đến được thư mục chính:
 
-<img src=""
+<img src="http://i.imgur.com/DHiJz87.png">
+
+Bạn có thể đề xuất thay đổi (thêm nó vào chỉ mục Index) bằng cách:
+
+```sh
+git add *
+```
+
+Đây là bước đầu tiên trong quy trình git cơ bản. Để thật sự commit những thay đổi, bạn sử dụng:
+
+```sh
+git commit -m "ghi-chú-commit"
+```
+
+Thay đổi của bạn hiện đang nằm tại HEAD của bản sao cục bộ đang làm việc. Để gửi những thay đổi đó đến repository remote, bạn thực thi:
+
+```sh
+git push origin master
+```
+
+Sau khi đã thực hiện các câu lệnh như trên, việc commit/push file readme.md lên github đã thành công khi màn hình thông báo như sau:
+
+<img src="http://i.imgur.com/8zDyglt.png">
+
+*Chúc các bạn thành công*
+
 
 
 
